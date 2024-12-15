@@ -109,7 +109,7 @@ export default defineAppConfig({
       },
       instagram: {
         link: "",
-        icon: "tabler:brand-instagram",
+        icon: "i-material-symbols-backpack",
       },
       x: {
         link: "https://x.com/mark_bruderer",
@@ -117,7 +117,7 @@ export default defineAppConfig({
       },
       youtube: {
         link: "https://www.youtube.com/@mark_hacks",
-        icon: "tabler:brand-youtube",
+        icon: "i-material-symbols-azm-rounded",
       },
     },
   },
