@@ -27,7 +27,7 @@ Even in free directories, we offer featured or boosted listings. Businesses can 
 
 Here’s an example of how featured listings will look to Minted Directory visitors:
 
-::feature-example
+::feature-example{title="dewscc"}
 ::
 
 ## Sponsoring
